@@ -1,10 +1,15 @@
 # habittracker
 
-A new Flutter project.
+->>>>>>>>>>>>>>>>>>>>>>>> Sample Images
+assets/appimages/ss0.png
 
-## Getting Started
+<div align = "center">
+  <img height = "900" width ="400" src ="assets/appimages/ss0.png" alt = "ss1">
+</div>
 
-This project is a starting point for a Flutter application.
+<div align = "center">
+  <img height = "900" width ="400" src ="assets/appimages/ss1.png" alt = "ss2">
+</div>
 
 A few resources to get you started if this is your first Flutter project:
 
